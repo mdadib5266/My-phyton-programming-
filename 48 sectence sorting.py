@@ -1,0 +1,5 @@
+sen = str(input("input the sentence:"))
+words = sen.split()
+sorted_sen = sorted(sen)
+print(sorted_sen)
+print(sorted(sen))

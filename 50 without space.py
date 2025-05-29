@@ -1,0 +1,5 @@
+text = input('input the sentence: ')
+#t1 = str(text.split( ))
+without_space = text.replace("","")
+print('Sentence without space: ',without_space)
+#print(t1)

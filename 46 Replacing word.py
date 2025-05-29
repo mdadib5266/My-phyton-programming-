@@ -1,0 +1,5 @@
+string = str(input('The string: '))
+replace_word = str(input("Enter the word you wanna replace: "))
+replaced = str(input("input what you wanna replace: "))
+string = string.replace(replace_word,replaced)
+print(string)
